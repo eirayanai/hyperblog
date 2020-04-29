@@ -49,6 +49,12 @@ body
     background: white;
     padding: 1em;
 }
+
+#post #foto
+{
+    width: 600px;
+}
+
 #footer
 {
     background: #777;
